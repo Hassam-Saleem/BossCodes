@@ -1,11 +1,11 @@
-# Boss Codes — bosscodes.dev
+# Boss Codes — bosscodes.site
 # robots.txt
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://bosscodes.dev/sitemap.xml
+Sitemap: https://bosscodes.site/sitemap.xml
 
 # Block common nuisance bots
 User-agent: AhrefsBot
